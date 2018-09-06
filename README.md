@@ -1,1 +1,2 @@
 # PluralSightDemo
+Added some info
